@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "lhfdle-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "e9940c17-9860-4d71-b161-ed037737dc40",
+      "database_name": "DBD1Database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
